@@ -1,5 +1,4 @@
 # CNN-FCN-Image-Classification
-CNN-FCN
 This repository contains the Jupyter Notebook Cnn_FCN.ipynb, which provides an implementation of a Convolutional Neural Network (CNN) followed by a Fully Convolutional Network (FCN) for image classification tasks. The purpose of this code is to serve as a starting point for individuals interested in learning how to create and train deep learning models for image classification.
 
 # Table of Contents
