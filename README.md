@@ -1,1 +1,1 @@
-# CNN-Image-Classification
+# CNN-FCN-Image-Classification
