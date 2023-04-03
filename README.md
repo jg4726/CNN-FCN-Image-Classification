@@ -30,5 +30,5 @@ A softmax activation function to produce class probabilities.
 # Dataset
 This notebook assumes that you have an image dataset with labeled examples. The dataset should be organized into separate folders for each class, with images saved in a standard format (e.g., JPEG, PNG). The notebook provides code for loading and preprocessing the dataset, as well as splitting it into training and validation sets for model evaluation.
 
-Training and Evaluation
+# Training and Evaluation
 The notebook provides code for training the CNN-FCN model using stochastic gradient descent with a learning rate schedule. During training, the model's performance is evaluated using the validation set, and the best model weights are saved. After training, the notebook also provides code for evaluating the model's performance on the test set, as well as visualizing the confusion matrix and other metrics.
