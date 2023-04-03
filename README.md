@@ -15,17 +15,17 @@ This repository contains the Jupyter Notebook Cnn_FCN.ipynb, which provides an i
 
 
 # Usage
-Open the Cnn_FCN.ipynb file in Jupyter Notebook.
-Follow the instructions and comments provided in the notebook to understand each step of the process.
-Execute each code cell in sequence by pressing Shift + Enter.
-Modify the code as needed to adapt it to your own dataset or use case.
+1. Open the Cnn_FCN.ipynb file in Jupyter Notebook.
+2. Follow the instructions and comments provided in the notebook to understand each step of the process.
+3. Execute each code cell in sequence by pressing Shift + Enter.
+4. Modify the code as needed to adapt it to your own dataset or use case.
 
 # Model Architecture
 The implemented model consists of the following architecture:
 
-A series of convolutional layers, each followed by batch normalization, ReLU activation, and max-pooling.
-A fully convolutional network (FCN) layer to enable the model to handle images of different sizes.
-A softmax activation function to produce class probabilities.
+1. A series of convolutional layers, each followed by batch normalization, ReLU activation, and max-pooling.
+2. A fully convolutional network (FCN) layer to enable the model to handle images of different sizes.
+3. A softmax activation function to produce class probabilities.
 
 # Dataset
 This notebook assumes that you have an image dataset with labeled examples. The dataset should be organized into separate folders for each class, with images saved in a standard format (e.g., JPEG, PNG). The notebook provides code for loading and preprocessing the dataset, as well as splitting it into training and validation sets for model evaluation.
